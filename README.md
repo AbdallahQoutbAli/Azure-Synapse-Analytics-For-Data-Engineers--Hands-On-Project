@@ -332,6 +332,8 @@ GROUP BY td.year,
 <li> Operational Reporting</li>
 
 </ol>
+
+
   ### Sample :
 ![image](https://github.com/AbdallahQoutbAli/Azure-Synapse-Analytics-For-Data-Engineers--Hands-On-Project/assets/47276503/cef39e63-83fc-462a-ae6d-0c1014de3ece)
 
