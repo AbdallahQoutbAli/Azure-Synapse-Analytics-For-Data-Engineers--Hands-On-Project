@@ -7,7 +7,7 @@ There are three different taxi-hailing services in New York.
 The first one is yellow taxis, which are only allowed to pick up passengers from the inner city.
 The next one is green taxis. They, on the other hand, are allowed to only pick up passengers from the outer boroughs, but they can drop them off anywhere in the city.
 Then we have the farm vehicles which operate throughout the city.
-There is a further classification of the For Hire Vehicles called High Volume For-Hire Vehicles. <br>
+There is a further classification of the For Hire Vehicles called High Volume For-Hire Vehicles. <br> <br>
 ![image](https://github.com/AbdallahQoutbAli/Azure-Synapse-Analytics-For-Data-Engineers--Hands-On-Project/assets/47276503/8293544d-c6a4-46f6-b77b-4137b59d8693)
 
 
@@ -30,7 +30,7 @@ There are a lot of flies as shown below :
 # 3- Solution Architecture
 1. using Serverless SQL For Data Discovery
 2. made Data Virtualization by using External Data Sources and External Files Format For more Organization and make ETL less Complex
-3. made a Data Transformation to create USP , CETAS,and View to access Data, Remove unwanted columns, and Store pre-aggregated data 
+3. made a Data Transformation to create USP , CETAS,and View to access Data, Remove unwanted columns, and Store pre-aggregated data <br>
 
 ![image](https://github.com/AbdallahQoutbAli/Azure-Synapse-Analytics-For-Data-Engineers--Hands-On-Project/assets/47276503/52a2d5ed-fb72-4ad1-92c4-a0ef020c717e)
 
@@ -170,7 +170,7 @@ IF NOT EXISTS (SELECT * FROM sys.external_file_formats WHERE name ='csv_file_for
 
 
 
-As Show Below, We have Partitioned Files in different Locations so we need to Compain all these files and make a view <br>
+As Show Below, We have Partitioned Files in different Locations so we need to Compain all these files and make a view 
 we will use an External Tables and Stored Procedure then Create a view with partitioned columns.  <br>
 ![image](https://github.com/AbdallahQoutbAli/Azure-Synapse-Analytics-For-Data-Engineers--Hands-On-Project/assets/47276503/ced5f8eb-1df3-4f99-a9ee-28d91ba829ea)
 
