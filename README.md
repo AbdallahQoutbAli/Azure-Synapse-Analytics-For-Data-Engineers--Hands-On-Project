@@ -1,7 +1,6 @@
 NYC-taxi-trips using Azure Synapse Analytics 
 
-Projects done in the [Azure Synapse Analytics For Data Engineers -Hands On Project](https://www.udemy.com/course/azure-synapse-analytics-for-data-engineers/)
-
+ 
 
 # 1- Data Overview 
 
@@ -341,8 +340,7 @@ GROUP BY td.year,
  ### Dashboard Link : 
 [NYC Taxi Trips](https://app.powerbi.com/view?r=eyJrIjoiYzdkNWU1YzgtZGJjYi00Y2RlLTgyOTctMDA3NTRkNWM4MjRlIiwidCI6ImUwYjlhZTFlLWViMjYtNDZhOC1hZGYyLWQ3ZGJjZjIzNDBhOSJ9)
 
- ### My certification : 
- ![image](https://github.com/AbdallahQoutbAli/Azure-Synapse-Analytics-For-Data-Engineers--Hands-On-Project/assets/47276503/144f7658-3a2e-40a6-b3ad-a6841284f23d)
+ 
 
 
 
